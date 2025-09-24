@@ -9,7 +9,3 @@
 <a href="https://spring.io/"><img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&amp;logo=Spring&amp;logoColor=white"></a>
   <a href="https://www.mysql.com/"><img src="https://img.shields.io/badge/Mysql-4479A1?style=flat-square&amp;logo=Mysql&amp;logoColor=white"></a>
   <img src="https://img.shields.io/badge/React Native-61DAFB?style=flat-square&amp;logo=React&amp;logoColor=black">
-
-
-<h3>Project</h3>
-<a href="https://abstracted-warbler-2c7.notion.site/OurCalendar-20565a1da3a0439c97980f08a6741325">https://abstracted-warbler-2c7.notion.site/OurCalendar-20565a1da3a0439c97980f08a6741325</a>
